@@ -1,6 +1,6 @@
 # Hello, I'm João Menezes 👋
 
-I'm a software developer passionate about creating scalable and efficient solutions. I have experience in various technologies, including,**Typescript**, **Node.js**, **Angular**, **MySQL**, and much more.
+I'm a software developer, and I like creating scalable and efficient solutions too much. I have experience in some technologies, including,**Typescript**, **Node.js**, **Angular**, **MySQL**, and much more, like playing games and listening to songs.
 
 ## 💻 Minhas Estatísticas
 
